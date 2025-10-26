@@ -81,7 +81,7 @@ Use case diagrams show how different users (actors) interact with the system to 
 2. Help in identifying and organizing system requirements.
 3. Facilitate communication among stakeholders and development team.
 
-![alt text](useCase.png)
+![alt text](alx-booking-uc.png)
 
 ## Acceptance Criteria.
 - Objective: Establishing clear criteria for feature completion.
